@@ -1,4 +1,4 @@
-CREATE TABLE rakamin.table_analytic AS
+CREATE TABLE 'rakamin.table_analytic' AS
 SELECT
     ft.transaction_id,
     ft.date,
